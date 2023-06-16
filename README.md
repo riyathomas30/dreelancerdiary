@@ -1,2 +1,2 @@
-# dreelancerdiary
+# freelancerdiary
 FreelancerDiaryApp
